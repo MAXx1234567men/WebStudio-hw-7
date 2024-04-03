@@ -1,23 +1,8 @@
-.header-list-item:hover {
-    color: rgb(0, 68, 255);
-  }
-  button:hover {
-    color: white;
-    background-color: blue;
-  }
-  footer {
-    background-color: rgb(5, 11, 39);
-  }
-  .footer-item-text {
-    color: white;
-  }
-  .list-prosuct {
-    background-color: rgb(206, 206, 206);
-    border: 1px rgb(78, 75, 75);
-  }
-  .header {
-    border: 1px solid #ececec;
-  }
-  .footer-list-item-text {
-    color: white;
+:root {
+  --logo-color: rgb(33, 150, 243);
+  --logo-col:rgb(0, 0, 0);
+  --main:rgb(47, 48, 58);
+  --footer:rgb(255, 255, 255);
+  --foot:rgba(255, 255, 255, 0.6);
+  --button:rgb(245, 244, 250);
   }
